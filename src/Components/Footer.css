@@ -16,13 +16,13 @@
   margin: 12% 4%;
 }
 
-h3,
-p {
+.footer-contents h3,
+.footer-contents p {
   color: white;
   line-height: 170%;
   font-family: "Roboto", sans-serif;
 }
 
-p {
+.footer-contents p {
   color: grey;
 }

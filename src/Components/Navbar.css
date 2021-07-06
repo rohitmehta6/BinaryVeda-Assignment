@@ -24,6 +24,10 @@
   display: flex;
 }
 
+.left-header p {
+  color: white;
+}
+
 .left-header img {
   height: 30px;
   width: 100px;
