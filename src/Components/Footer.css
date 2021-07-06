@@ -9,6 +9,7 @@
   display: flex;
   width: 100%;
   justify-content: center;
+  flex-wrap: wrap;
   margin-left: -4%;
 }
 
@@ -25,4 +26,8 @@
 
 .footer-contents p {
   color: grey;
+}
+
+.footer-contents h3 {
+  margin-bottom: 6%;
 }

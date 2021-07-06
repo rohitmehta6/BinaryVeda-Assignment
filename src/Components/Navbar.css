@@ -29,9 +29,10 @@
 }
 
 .left-header img {
-  height: 30px;
+  height: 40px;
   width: 100px;
   padding-right: 3px;
+  margin-top: -1%;
 }
 
 .right-header {
