@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.footer {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  margin-left: -4%;
+}
+
+.footer-contents {
+  margin: 12% 4%;
+}
+
+h3,
+p {
+  color: white;
+  line-height: 170%;
+}
